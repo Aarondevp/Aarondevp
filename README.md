@@ -40,7 +40,7 @@
 
 ## GitHub stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sentinel1901&show_icons=true&locale=en" alt="Toxicitydev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Toxicitydev&show_icons=true&locale=en" alt="Toxicitydev" /></p>
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Toxicitydev&layout=compact&theme=react&hide=TeX)
 
