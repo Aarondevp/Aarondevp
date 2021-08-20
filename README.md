@@ -6,8 +6,7 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-2/794558195921846292.png)
 
-- 🔭 I’m currently working on [Coral reef](https://bit.ly/3kbcwMr) 
-- [my portfolio](https://toxicity-1.toxic23.repl.co/) 
+- 🔭 I’m currently working on [Coral reef](https://bit.ly/3kbcwMr) [my portfolio](https://toxicity-1.toxic23.repl.co/) 
 
 - 🌱 I’m currently learning **Node.js,Javascript,html and css**
 
