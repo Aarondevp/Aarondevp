@@ -31,6 +31,8 @@
 <img src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3" />
 
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
+  </p>
 
 ## GitHub stats
 
