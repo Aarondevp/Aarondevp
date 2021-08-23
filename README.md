@@ -35,13 +35,4 @@
   </p>
 
 ## GitHub stats
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Aarondevp&show_icons=true&locale=en" alt="Toxicitydev" /></p>
-
-![My GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Aarondevp&layout=compact&theme=react&hide=TeX)
-
-
-
-
-
-
+<img src="https://github.com/xHyroM/xHyroM/blob/master/github-metrics.svg" alt="github metrics">
