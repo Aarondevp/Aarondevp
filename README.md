@@ -35,4 +35,4 @@
   </p>
 
 ## GitHub stats
-<img src="https://github.com/xHyroM/xHyroM/blob/master/github-metrics.svg" alt="github metrics">
+<img src="https://github.com/Aarondevp/Aarondevp/blob/master/github-metrics.svg" alt="github metrics">
