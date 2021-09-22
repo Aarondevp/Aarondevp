@@ -6,9 +6,9 @@
 
 ![Discord](https://discord.c99.nl/widget/theme-2/794558195921846292.png)
 
-- 🔭 I’m currently working on [Coral reef](https://bit.ly/3kbcwMr), [portfolio website](https://www.toxicity.ga) 
+- 🔭 I’m currently working on [Sekisui api](https://api.sekisui.ml)
 
-- 🌱 I’m currently learning **Node.js,Javascript,html and css**
+- 🌱 I’m currently know **Node.js,Javascript,html and css**
 
 - 👯 I’m looking to collaborate on **Anyone**
 
