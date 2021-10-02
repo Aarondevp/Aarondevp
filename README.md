@@ -42,4 +42,9 @@
   </p>
 
 ## GitHub stats
+ 
+ <a href="https://github.com/Aarondevp/github-readme-stats"><img alt="Aarons's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aarondevp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Aaron's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Aarondevp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+  <br/>
