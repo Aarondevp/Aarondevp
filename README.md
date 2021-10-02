@@ -17,7 +17,7 @@
 
 <details>
   
-<summary>📡projects and contributions</summary>
+<summary>📡 projects and contributions</summary>
   
 <h3>contributions and projects</h3>
   
