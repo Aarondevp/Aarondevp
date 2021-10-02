@@ -37,14 +37,11 @@
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
   <img src="https://img.shields.io/badge/replit-black?style=for-the-badge&logo=replit" />
   <img src="https://img.shields.io/badge/uptime%20robot-black?style=for-the-badge&logo=uptime%20robot" />
-  <img src="https://img.shields.io/badge/android-black?style=for-the-badge&logo=android" />
-
-  
-
-  
+  <img src="https://img.shields.io/badge/android-black?style=for-the-badge&logo=android" />l
   </p>
   <details>
 
+    
 ## GitHub stats
  
  <a href="https://github.com/Aarondevp/github-readme-stats"><img alt="Aarons's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Aarondevp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
