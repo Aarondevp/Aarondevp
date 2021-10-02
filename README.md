@@ -34,6 +34,9 @@
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
   <img src="https://img.shields.io/badge/replit-black?style=for-the-badge&logo=replit" />
   <img src="https://img.shields.io/badge/uptime%20robot-black?style=for-the-badge&logo=uptime%20robot" />
+  <img src="https://img.shields.io/badge/android-green?style=for-the-badge&logo=android" />
+
+  
 
   
   </p>
