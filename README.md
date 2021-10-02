@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Anyone**
 
-- ⚡ Fun fact **I help people for free on discord**
+- ⚡ Fun fact **I know alot of stuff other than science**
 <br>
 
 <details>
