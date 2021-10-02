@@ -20,6 +20,9 @@
 
 [![DiscordBanner](https://invidget.switchblade.xyz/ReFcfRk8eQ)](https://discord.gg/ReFcfRk8eQ)
 
+<details>
+  <summary>languages and tools<summary>
+  
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -40,6 +43,7 @@
 
   
   </p>
+  <details>
 
 ## GitHub stats
  
