@@ -21,8 +21,9 @@
 [![DiscordBanner](https://invidget.switchblade.xyz/ReFcfRk8eQ)](https://discord.gg/ReFcfRk8eQ)
 
 <details>
-  <summary>languages and tools<summary>
   
+  <summary>languages and tools</summary>
+
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
@@ -39,7 +40,7 @@
   <img src="https://img.shields.io/badge/uptime%20robot-black?style=for-the-badge&logo=uptime%20robot" />
   <img src="https://img.shields.io/badge/android-black?style=for-the-badge&logo=android" />l
   </p>
-  <details>
+  </details>
 
     
 ## GitHub stats
