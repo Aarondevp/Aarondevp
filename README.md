@@ -13,6 +13,7 @@
 - 👯 I’m looking to collaborate on **Anyone**
 
 - ⚡ Fun fact **I help people for free on discord**
+<br>
 
 <details>
   
@@ -24,6 +25,9 @@
 [Alpha Cop](https://bit.ly/2Vf2SQh)
   
   </details>
+
+
+
 
 
 
