@@ -18,11 +18,12 @@
 <details>
   
 <summary>📡projects and contributions</summary>
-<h3 align="left">contributions and projects</h3>
   
-[Sekisui](https://api.sekisui.ml) 
+<h3>contributions and projects</h3>
+  
+[Sekisui](https://api.sekisui.ml) this is my group's api I practically did everything but it has random output and image manipulation
  
-[Alpha Cop](https://bit.ly/2Vf2SQh)
+[Alpha Cop](https://bit.ly/2Vf2SQh) alpha cop is created by my friend and I help him with some stuff on it
   
   </details>
 
