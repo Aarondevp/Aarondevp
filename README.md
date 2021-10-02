@@ -32,7 +32,7 @@
 
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
-  <img src="https://img.shields.i/badge/replit-black?style=for-the-badge&logo=replit" />
+  
   </p>
 
 ## GitHub stats
