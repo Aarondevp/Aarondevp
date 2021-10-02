@@ -24,7 +24,7 @@
 
 <p align="center">
 
-<img src="https://img.shields.i/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Node.JS-black?style=for-the-badge&logo=node.js" />
 
 <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=HTML5" />
 
@@ -32,6 +32,7 @@
 
 <img src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=javascript" />
 <img src="https://img.shields.io/badge/Font%20Awesome-black?style=for-the-badge&logo=Font%20Awesome" />
+  <img src="https://img.shields.io/badge/replit-black?style=for-the-badge&logo=replit" />
   
   </p>
 
