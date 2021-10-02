@@ -24,6 +24,7 @@
 [Sekisui](https://api.sekisui.ml) this is my group's api I practically did everything but it has random output and image manipulation
  
 [Alpha Cop](https://bit.ly/2Vf2SQh) alpha cop is created by my friend and I help him with some stuff on it
+  <br>
   
   </details>
 
@@ -52,6 +53,7 @@
   <img src="https://img.shields.io/badge/uptime%20robot-black?style=for-the-badge&logo=uptime%20robot" />
   <img src="https://img.shields.io/badge/android-black?style=for-the-badge&logo=android" />l
   </p>
+  <br>
   </details>
 
 <details>
