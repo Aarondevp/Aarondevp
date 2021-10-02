@@ -22,7 +22,7 @@
 
 <details>
   
-  <summary>languages and tools</summary>
+  <summary>🛠️ languages and tools</summary>
 
 <h3 align="left">Languages and Tools:</h3>
 
@@ -43,7 +43,7 @@
   </details>
 
 <details>
-  <summary>github stats</summary>    
+  <summary>📈 github stats</summary>    
   
 <h3>GitHub stats</h3>
  
