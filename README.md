@@ -14,11 +14,12 @@
 
 - ⚡ Fun fact **I help people for free on discord**
 
+<details>
 
+<h3 align="left">contributions and projects</h3>
 
-<h3 align="left">Discord server</h3>
-
-[![DiscordBanner](https://invidget.switchblade.xyz/ReFcfRk8eQ)](https://discord.gg/ReFcfRk8eQ)
+[Alpha Cop](https://bit.ly/2Vf2SQh)
+  </details>
 
 <details>
   
