@@ -15,11 +15,15 @@
 - ⚡ Fun fact **I help people for free on discord**
 
 <details>
-
+  
+<summary>📡projects and contributions</summary>
 <h3 align="left">contributions and projects</h3>
-
+[Sekisui](https://api.sekisui.ml) 
 [Alpha Cop](https://bit.ly/2Vf2SQh)
+  
   </details>
+
+
 
 <details>
   
