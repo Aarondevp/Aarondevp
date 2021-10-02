@@ -42,4 +42,4 @@
   </p>
 
 ## GitHub stats
-<img src="https://github.com/Aarondevp/Aarondevp/blob/master/github-metrics.svg" alt="github metrics">
+
