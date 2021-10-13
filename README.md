@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Anyone**
 
-- ⚡ Fun fact **I know alot of stuff other than science**
+- ⚡ Fun fact **I am a Gangster**
 <br>
 
 <details>
@@ -21,7 +21,7 @@
   
 <h3>contributions and projects</h3>
   
-[Sekisui](https://api.sekisui.ml) this is my group's api I practically did everything but it has random output and image manipulation
+[Sekisui api](https://api.sekisui.ml) this is my group's api I practically did everything but it has random output and image manipulation
  
 [Alpha Cop](https://bit.ly/2Vf2SQh) alpha cop is created by my friend and I help him with some stuff on it
   <br>
