@@ -60,7 +60,7 @@
   <summary>📈 github stats</summary>    
   
 <h3>GitHub stats</h3>
- ![Metrics](https://metrics.lecoq.io/Aarondevp?template=classic&config.timezone=America%2FJamaica)
+ ![Metrics](https://metrics.lecoq.io/Aarondevp?template=classic&config.timezone=America%2FJamaica)] 
 
 
   <br/>
