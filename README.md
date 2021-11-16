@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [Sekisui api](https://api.sekisui.ml)
 
-- 🌱 I’m currently know **Node.js,Javascript,html and css**
+- 🌱 I’m currently learning **Java and python**
 
 - 👯 I’m looking to collaborate on **Anyone**
 
