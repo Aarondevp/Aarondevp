@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on [Sekisui api](https://api.sekisui.ml)
 
-- 🌱 I’m currently learning **Java and python**
+- 🌱 I’m currently learning **Java and c**
 
-- 👯 I’m looking to collaborate on **Anyone**
+- 👯 I’m looking to collaborate on **noone**
 
-- ⚡ Fun fact **I am a Gangster**
+- ⚡ my other skills are "pyschological manipulation and thinking at high speeds(sometimes)"
 <br>
 
 <details>
@@ -21,7 +21,7 @@
   
 <h3>contributions and projects</h3>
   
-[Sekisui api](https://api.sekisui.ml) this is my group's api I practically did everything but it has random output and image manipulation
+[Sekisui api](https://api.sekisui.ml) this is my group's api I practically did everything but it has random json output and image manipulation
  
 [Alpha Cop](https://bit.ly/2Vf2SQh) alpha cop is created by my friend and I help him with some stuff on it
   <br>
