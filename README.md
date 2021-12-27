@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **noone**
 
-- ⚡ my other skills are "pyschological manipulation and thinking at high speeds(sometimes)"
+- ⚡ my other skills are "pyschological manipulation, thinking at high speeds(sometimes) and rapping/singing"
 <br>
 
 <details>
