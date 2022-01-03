@@ -52,6 +52,7 @@
   <img src="https://img.shields.io/badge/replit-black?style=for-the-badge&logo=replit" />
   <img src="https://img.shields.io/badge/uptime%20robot-black?style=for-the-badge&logo=uptime%20robot" />
   <img src="https://img.shields.io/badge/android-black?style=for-the-badge&logo=android" />l
+    <img src="https://img.shields.io/badge/windows-black?style=for-the-badge&logo=windows" />
   </p>
   <br>
   </details>
