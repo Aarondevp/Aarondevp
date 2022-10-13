@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **noone**
 
-- ⚡ my other skills are "pyschological manipulation, thinking at high speeds(sometimes) and rapping/singing"
+- ⚡ my other skills are "taking a sh#t, f#cking ur mom ig"
 <br>
 
 <details>
@@ -21,9 +21,7 @@
   
 <h3>contributions and projects</h3>
   
-[Sekisui api](https://api.sekisui.ml) this is my group's api I practically did everything but it has random json output and image manipulation
- 
-[Alpha Cop](https://bit.ly/2Vf2SQh) alpha cop is created by my friend and I help him with some stuff on it
+
   <br>
   
   </details>
